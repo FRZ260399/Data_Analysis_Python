@@ -1,3 +1,3 @@
-Estos notebooks están diseñados para ser una fuente de inspiración y referencia para tus propios proyectos. Siéntete libre de descargarlos, revisar el código y las visualizaciones, y utilizarlos como punto de partida en tu propio análisis.
+These notebooks are designed to be a source of inspiration and reference for your own projects. Feel free to download them, review the code and visualizations, and use them as a starting point in your own analysis.
 
-Recuerda que siempre es importante adaptar y personalizar los proyectos a tus propias necesidades y datos. 
+Remember that it is always important to adapt and customize the projects to your own needs and data
